@@ -39,10 +39,7 @@ namespace hmwrk
 
             string path = "notes.text";
 
-
-
             Console.WriteLine("\nHit enter to add expence ... \n");
-
             //ConsoleKeyInfo key = Console.ReadKey();
             var stop = Console.ReadLine();
 
